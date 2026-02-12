@@ -6,6 +6,7 @@ Brief description about your project : Analysis of NYC property sales data to un
 - Python
 - Streamlit
 - Pandas
+- Numpy
 - Plotly
 
 ## 🔗 Reference
